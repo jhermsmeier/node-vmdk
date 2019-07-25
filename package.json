@@ -18,7 +18,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "readable-stream": "^3.0.6"
+    "readable-stream": "^3.4.0"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
